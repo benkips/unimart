@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unimart</string>
+    <string name="title_activity_index">Unimart</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="terms">We owe you our service when you engage us by ordering an item from this site which must be delivererd to you and be of good quality. You our customer you are required to pay on delivery the stipulated amount for your order.
+Successful orders cant be cancelled so be carefull before you order anything. Enjoy your shopping with us</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deliveryinfo">Orders made between 6:00 am in the morning and 6:00 pm in the evening will be delivererd on the same day if weather conditions are favorably at the time of delivery.
+Orders made outside this time frame will be delivererd on the following day due to fixed schedule and delivery procedure that are considered by the supplier.</string>
+</resources>

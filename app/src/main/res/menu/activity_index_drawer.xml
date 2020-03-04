@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/emailus"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="Email us" />
+        <item
+            android:id="@+id/call"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="call customercare" />
+        <item
+            android:id="@+id/textus"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="Contact us" />
+
+    </group>
+
+    <item android:title="Application">
+        <menu>
+
+            <item
+                android:id="@+id/developers"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Developers" />
+            <item
+                android:id="@+id/clocation"
+                android:icon="@drawable/ic_location_on_black_24dp"
+                android:title="Change location" />
+        </menu>
+    </item>
+
+</menu>
